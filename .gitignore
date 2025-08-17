@@ -1,12 +1,12 @@
 /node_modules
 /.env
-.DS_Store
-/.vscode/
+# .DS_Store
+# /.vscode/
 /genai_env
 .env.local
 
-/user_memory
-/uploaded_docs
+# /user_memory
+# /uploaded_docs
 
 # Python
 __pycache__/
